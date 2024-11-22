@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @FarshadGhanbari
-- 👀 I'm interested in Web Development & GYM
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Artificial intelligence
-- 📫 How to reach me ...!?
+I’m **Farshad**, a Full-Stack Developer and Network Edge Specialis. I specialize in **DevOps** and **CI/CD** and have the ability to manage complex projects from design to deployment. I also provide consultation on database design, implementation, and coding for large-scale projects. 
 
-<!---
-FarshadGhanbari/FarshadGhanbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills: 
+
+#### **Frontend** 
+- Vue.js 
+- React 
+- JavaScript 
+- Inertia.js 
+- Vite 
+- Nuxt.js 
+- Next.js 
+- TailwindCSS 
+
+#### **Backend** 
+- PHP 
+- Laravel 
+- Lumen 
+- Python 
+- Node.js
+
+#### **Databases & Messaging** 
+- MySQL 
+- MongoDB 
+- PostgreSQL 
+- Redis 
+- RabbitMQ 
+
+#### **Web Servers & Hosting** 
+- Nginx 
+- Apache 
+- LiteSpeed 
+- Docker 
+- Ubuntu 
+- Windows 
+- cPanel 
+- DirectAdmin 
+- Plesk 
+
+#### **Other Expertise** 
+- DevOps and CI/CD
+- Laravel Reverb 
+- Socket.io
+- WordPress
