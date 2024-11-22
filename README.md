@@ -1,44 +1,10 @@
-I’m **Farshad**, a Full-Stack Developer and Network Edge Specialis. I specialize in **DevOps** and **CI/CD** and have the ability to manage complex projects from design to deployment. I also provide consultation on database design, implementation, and coding for large-scale projects. 
+Hi, I'm Farshad — a Full-Stack Developer & System Architect with a passion for crafting efficient, scalable systems and applications. With over a decade of experience, I specialize in:
 
-### Skills: 
+🚀 Tech Stack:
+Frontend: Vue, React, TailwindCSS, Inertia, Nuxt, Next
+Backend: Laravel, Lumen, PHP, Node.js, Python
+Databases & Messaging: MySQL, MongoDB, PostgreSQL, Redis, RabbitMQ
+DevOps & Hosting: Docker, CI/CD, Nginx, Apache, Ubuntu, Plesk, cPanel, Server Management
+Others: MeiliSearch, Laravel Echo, Reverb, Horizon, Minio
 
-#### **Frontend** 
-- Vue.js 
-- React 
-- JavaScript 
-- Inertia.js 
-- Vite 
-- Nuxt.js 
-- Next.js 
-- TailwindCSS 
-
-#### **Backend** 
-- PHP 
-- Laravel 
-- Lumen 
-- Python 
-- Node.js
-
-#### **Databases & Messaging** 
-- MySQL 
-- MongoDB 
-- PostgreSQL 
-- Redis 
-- RabbitMQ 
-
-#### **Web Servers & Hosting** 
-- Nginx 
-- Apache 
-- LiteSpeed 
-- Docker 
-- Ubuntu 
-- Windows 
-- cPanel 
-- DirectAdmin 
-- Plesk 
-
-#### **Other Expertise** 
-- DevOps and CI/CD
-- Laravel Reverb 
-- Socket.io
-- WordPress
+Looking forward to connecting with more like-minded professionals. Let's build the future together! 💼🚀
