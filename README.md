@@ -1,4 +1,4 @@
-Hi, I'm Farshad — a Full-Stack Developer & System Architect with a passion for crafting efficient, scalable systems and applications. With over a decade of experience, I specialize in:
+Hi, I'm Farshad — a Full-Stack Developer & System Architect with a passion for crafting efficient, scalable systems and applications. With over a decade of experience, I specialize in the following areas:
 
 🚀 Tech Stack:
 Frontend: Vue, React, TailwindCSS, Inertia, Nuxt, Next
